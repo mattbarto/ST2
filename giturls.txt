@@ -1,0 +1,3 @@
+  git://github.com/kemayo/sublime-text-2-git.git
+  git://github.com/Kronuz/SublimeLinter.git
+  https://github.com/JulianEberius/SublimeRope.git
